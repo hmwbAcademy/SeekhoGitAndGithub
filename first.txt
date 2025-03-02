@@ -1,5 +1,6 @@
 This is the tutorial of Git and Github.
 1. Github basics
+2.clone githu  repo
 
 
 
