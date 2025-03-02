@@ -10,3 +10,4 @@ This is the turtorial video of Python too.
 3. Conditionals
 4. Loops
 5. Functions
+6. Data Structure
