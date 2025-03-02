@@ -1,2 +1,9 @@
 This is the tutorial of Git and Github.
 1. Github basics
+
+
+
+
+This is the turtorial video of Python too.
+1. Varibales
+2. Datatypes
