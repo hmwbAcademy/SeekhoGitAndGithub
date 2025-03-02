@@ -7,3 +7,6 @@ This is the tutorial of Git and Github.
 This is the turtorial video of Python too.
 1. Varibales
 2. Datatypes
+3. Conditionals
+4. Loops
+5. Functions
